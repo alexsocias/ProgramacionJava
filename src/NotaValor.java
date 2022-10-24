@@ -27,7 +27,7 @@ public class NotaValor {
                 break;
             case 10:
                 System.out.println("Matricula de honor");
-                break;  
+                break;
 
 
         }
